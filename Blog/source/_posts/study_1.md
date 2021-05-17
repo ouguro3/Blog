@@ -5,7 +5,7 @@ categories:
 ---
 ---
 
-![img_01](https://user-images.githubusercontent.com/84296244/118451245-024f5980-b730-11eb-830b-2422cb52b551.jpg)
+![멀티캠퍼스 데이터 사이언스/엔지니어 과정](https://user-images.githubusercontent.com/84296244/118451245-024f5980-b730-11eb-830b-2422cb52b551.jpg)
 
 컴퓨터와 거리가 있는 생활 및 일 때문에 매너리즘에 빠져가던때에 우연히 본 네이버 광고에서  
 해당 과정을 알게 되었다
@@ -26,7 +26,7 @@ categories:
 ---
 **오늘 진행한 파이썬 기초**  
 
-![2](https://user-images.githubusercontent.com/84296244/118452719-6292cb00-b731-11eb-95d1-cc8b9a770c97.PNG)
+![파이썬 기초](https://user-images.githubusercontent.com/84296244/118452719-6292cb00-b731-11eb-95d1-cc8b9a770c97.PNG)
 
 (아예 기초라 아직까지는 쉬운듯하다)
 
