@@ -23,11 +23,9 @@ ___
 
 숙제도 끝냈고 내일은 공휴일이기도 하니 조금은 예습을 해놓는게 좋을듯하다
 ___
-![](https://user-images.githubusercontent.com/84296244/118758016-26827600-b8a9-11eb-9508-62af61ea5d33.PNG)  (뇌가 갑자기 안돌아서 시간이 좀 걸렸지만)
+![뇌가 갑자기 안돌아서 시간이 좀 걸렸지만](https://user-images.githubusercontent.com/84296244/118758016-26827600-b8a9-11eb-9508-62af61ea5d33.PNG)
 ___
-![](https://user-images.githubusercontent.com/84296244/118758020-297d6680-b8a9-11eb-96b3-d85c0b47c8ba.PNG)
-
-(결과는 이상 없음)
+![결과는 이상 없음](https://user-images.githubusercontent.com/84296244/118758020-297d6680-b8a9-11eb-96b3-d85c0b47c8ba.PNG)
 ___
 [숙제 코드가 있는 깃허브](https://github.com/ouguro3/Study/blob/main/Python_Basic/04_if/homework.py) 
 
