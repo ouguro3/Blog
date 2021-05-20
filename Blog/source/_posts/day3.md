@@ -26,5 +26,7 @@ ___
 ![오늘자 숙제, 제어문과 반복문 및 복합사용 문제](https://user-images.githubusercontent.com/84296244/118931046-7af92480-b981-11eb-9408-6576abc79aeb.PNG)
 ___
 ![결과 이상무](https://user-images.githubusercontent.com/84296244/118931059-7d5b7e80-b981-11eb-95e5-d77427131d9d.PNG)
+___
+[숙제 코드가 있는 깃허브](https://github.com/ouguro3/Study/blob/main/Python_Basic/05_while/homework.py) 
 
 
