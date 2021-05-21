@@ -53,3 +53,6 @@ ___
 생각해보니 그냥 index()로 리스트 인자 자릿수를 비교하는게 더 쉽고 좋을거같아 그렇게 처리하였다  
 결과는 성공적이였다  
 다른 방법도 있는지 한번 궁리를 좀 해봐야겠다  
+
+[숙제 코드가 있는 깃허브 1](https://github.com/ouguro3/Study/blob/main/Python_Basic/08_list/homework_list.py)   
+[숙제 코드가 있는 깃허브 2](https://github.com/ouguro3/Study/blob/main/Python_Basic/08_list/homework2_list.py) 
