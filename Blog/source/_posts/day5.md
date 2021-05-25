@@ -40,6 +40,6 @@ ___
 결과는 잘 출력됐다  
 일단 결과가 제대로 나오니 코딩한게 마음에는 안들었어도 기쁘고 즐거웠다  
 ___
-[숙제 코드가 있는 깃허브 1](https://github.com/ouguro3/Study/blob/main/Python_Basic/10_dictionary/homework.py)   
+[숙제 코드가 있는 깃허브](https://github.com/ouguro3/Study/blob/main/Python_Basic/10_dictionary/homework.py)   
 
 

@@ -37,3 +37,5 @@ input 하는 과정에서 숫자를 int 로 변환을 하지않아 짝수 계산
 오늘의 숙제는 그냥 무난~ 했다
 ___
 ![결과 이상없음](https://user-images.githubusercontent.com/84296244/119529687-4b9d4a00-bdbd-11eb-962f-cbc68fd169c4.PNG)
+___
+[숙제 코드가 있는 깃허브](https://github.com/ouguro3/Study/blob/main/Python_Basic/12_function/homework.py)   
