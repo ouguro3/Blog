@@ -22,3 +22,5 @@ pandas 로 진도가 넘어갔다
 자습을 하거나 개인 공부를 하는 시간이 되었다     
 매일 느끼고는 있지만 지식을 단기간에 머리에 넣는게 얼마나 어려운일인지 다시 한번 통감하는 하루였다  
 슬슬 효율적인 방법을 찾지않으면 힘들지도  
+___
+[pandas 기초 정리](https://github.com/ouguro3/Study/tree/main/for_data_analysis/Pandas)

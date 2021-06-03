@@ -36,4 +36,4 @@ ___
 colab 이였으면 좀 더 깔끔하고 `print()` 명령어도 필요 없었을텐데  
 굉장히 아쉬운 부분이다  
 ___
-[학습 내용이 있는 깃허브](https://github.com/ouguro3/Study/tree/main/for_data_analysis/Numpy)  
+[Numpy 기초 정리](https://github.com/ouguro3/Study/tree/main/for_data_analysis/Numpy)  
