@@ -36,3 +36,7 @@ ___
 재미있었다! 
 ___
 ![결과 출력 OK](https://user-images.githubusercontent.com/84296244/119693267-13fad480-be87-11eb-8b89-24e83c80d315.PNG)
+___
+[숙제 코드가 있는 깃허브](https://github.com/ouguro3/Study/tree/main/Python_Basic/14_module)  
+**module3** 에 가위바위보 함수가 구현되어 있는 파이썬 파일이 있고  
+실행 파일은 **module_practice.py** 이다 
