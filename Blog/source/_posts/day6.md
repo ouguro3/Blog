@@ -4,7 +4,7 @@ date: 2021-05-25 16:03:03
 categories:
     - multicampus
 ---
-**교육 6일차**
+## 교육 6일차
 ___
 오늘의 학습 내용
 - function

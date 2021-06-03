@@ -4,7 +4,7 @@ date: 2021-06-01 21:22:54
 categories:
     - multicampus
 ---
-**교육 10일차**
+## 교육 10일차
 ___
 오늘의 학습 내용
 - numpy
