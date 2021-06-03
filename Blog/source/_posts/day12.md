@@ -4,7 +4,7 @@ date: 2021-06-03 14:37:20
 categories:
     - multicampus
 ---
-## 교육 12일차
+
 ___
 오늘의 학습 내용
 - Git

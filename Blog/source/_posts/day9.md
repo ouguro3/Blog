@@ -4,7 +4,7 @@ date: 2021-05-28 18:06:38
 categories:
     - multicampus
 ---
-## 교육 9일차
+
 ___
 오늘의 학습 내용
 - class

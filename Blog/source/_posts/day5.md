@@ -4,7 +4,7 @@ date: 2021-05-24 17:17:03
 categories:
     - multicampus
 ---
-## 교육 5일차
+
 ___
 오늘의 학습 내용
 - tuple
