@@ -1,0 +1,3 @@
+[submodule "Blog/hexo-theme-hueman"]
+	path = Blog/hexo-theme-hueman
+	url = https://github.com/ppoffice/hexo-theme-hueman.git
