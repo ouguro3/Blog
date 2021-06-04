@@ -1,8 +1,9 @@
 ---
 title: 사분면 고르기
 date: 2021-06-04 15:30:38
-categories: algorithm
-            - baek joon
+categories: 
+ - algorithm
+ - baek joon
 ---
 **백준 알고리즘 if문 문제 1**
 
@@ -54,6 +55,6 @@ else:
 
 다만 여기에서는 사분면이라는 4개의 예가 있으므로 각 면에 해당하는 조건을  
 
-and 연산자를 이용해 판별하였다  
+and 연산자를 이용해 판별하였다 😁
 ___
 [해당 코드의 깃허브](https://github.com/ouguro3/Study/blob/main/Baekjoon/if/01_if.py)  
