@@ -5,4 +5,11 @@ categories:
     - multicampus
 tags: github
 ---
-특강 2일차  
+___
+오늘의 학습 내용
+- git branch
+    - merge
+- git clone
+- github 저장소 만들기
+___
+깃허브 특강 2일차  
