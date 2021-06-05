@@ -2,6 +2,7 @@
 title: 데이터 사이언스/엔지니어 과정 9일차
 date: 2021-05-28 18:06:38
 categories:
+    - 일기
     - multicampus
 ---
 

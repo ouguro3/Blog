@@ -51,4 +51,4 @@ print(H, M)
 그래서 제 2 조건으로 45 이상일때는 그냥 45를 빼고 H 가 0 이면  
 24에서 1을 빼도록 변경했다 😊
 ___
-[해당 코드의 깃허브](https://github.com/ouguro3/Study/blob/main/Baekjoon/if/02_if.py)  
+ 

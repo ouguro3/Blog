@@ -2,6 +2,7 @@
 title: 데이터 사이언스/엔지니어 과정 3일차
 date: 2021-05-20 10:25:54
 categories:
+    - 일기
     - multicampus
 ---
 ___

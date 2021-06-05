@@ -3,6 +3,8 @@ title: 데이터 사이언스/엔지니어 과정 12일차
 date: 2021-06-03 14:37:20
 categories:
     - multicampus
+tags:
+    - github
 ---
 ___
 오늘의 학습 내용
