@@ -36,6 +36,22 @@ ___
 ```
 # 작성 답안
 
+# 수정 전
+
+total = 0
+n = int(input())
+b = list(map(int,input().split()))
+for i in range(n):
+    b.sort()
+    b[i] = b[i] / max(b) * 100
+    print(b)
+for i in b:
+    total += i
+total /= n
+print(total)
+
+
+# 수정 후
 total = 0
 
 n = int(input())
@@ -48,13 +64,12 @@ for i in b:
 total /= n
 print(total)
 ```
-**출력은 정상적으로 나온다**  
 
 **막혔던점 : 40 80 60 입력을 받아 for문으로 새로운 평균을 구하는데  
 60의 새로운 평균이 정상적으로 나오지 않았다**  
 
 **원인 : `b[i] = b[i] / max(b) * 100`  코드에 max값을 실시간으로 가져오니  
-바뀐 평균값에서 맥스값이 변경되어 60의 평균이 제대로 나오지 않았던것**  
+바뀐 평균값에서 max값이 변경되어 60의 평균이 제대로 나오지 않았던것**  
 
 **수정 : max_num 변수를 지정해 for문 외부에서 max값을 미리 저장해놨다  
 그 후 동일한 코드에서 `max(b)` 부분에 `max_num` 을 대입 👍**
